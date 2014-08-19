@@ -1,0 +1,5 @@
+Install the RTMP plugin provided at https://github.com/arut/nginx-rtmp-module
+
+Configure the RTMP portion of the settings. (Available in nginx.conf)
+
+Boot server.

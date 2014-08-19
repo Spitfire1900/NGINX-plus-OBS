@@ -1,0 +1,4 @@
+Broadcast Settings:
+Mode: Live Stream
+Server: rtmp://localhost:1935/live
+Play Path: live
